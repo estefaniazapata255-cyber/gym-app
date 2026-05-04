@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\HerrProg-I\gymApp\bin\Debug\net10.0\gymApp.exe
+C:\Users\Usuario\Desktop\HerrProg-I\gymApp\bin\Debug\net10.0\gymApp.deps.json
+C:\Users\Usuario\Desktop\HerrProg-I\gymApp\bin\Debug\net10.0\gymApp.runtimeconfig.json
+C:\Users\Usuario\Desktop\HerrProg-I\gymApp\bin\Debug\net10.0\gymApp.dll
+C:\Users\Usuario\Desktop\HerrProg-I\gymApp\bin\Debug\net10.0\gymApp.pdb
+C:\Users\Usuario\Desktop\HerrProg-I\gymApp\obj\Debug\net10.0\gymApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\HerrProg-I\gymApp\obj\Debug\net10.0\gymApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\HerrProg-I\gymApp\obj\Debug\net10.0\gymApp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\HerrProg-I\gymApp\obj\Debug\net10.0\gymApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\HerrProg-I\gymApp\obj\Debug\net10.0\gymApp.dll
+C:\Users\Usuario\Desktop\HerrProg-I\gymApp\obj\Debug\net10.0\refint\gymApp.dll
+C:\Users\Usuario\Desktop\HerrProg-I\gymApp\obj\Debug\net10.0\gymApp.pdb
+C:\Users\Usuario\Desktop\HerrProg-I\gymApp\obj\Debug\net10.0\gymApp.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\HerrProg-I\gymApp\obj\Debug\net10.0\ref\gymApp.dll
