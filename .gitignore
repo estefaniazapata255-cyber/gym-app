@@ -1,0 +1,64 @@
+# Visual Studio Build Outputs
+bin/
+obj/
+[Bb]in/
+[Ob]j/
+
+# Visual Studio User Files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2015/2017 cache and settings
+.vs/
+
+# Roslyn cache directories
+.roslyn/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored as of NuGet 2.7
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if using NuGet 4.x+ localized resources
+# !**/packages/native/
+
+# BROWSER-SPECIFIC
+.DS_Store
+
+# Publish output
+publish/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Test Results
+TestResults/
+*.trx
+
+# Windows image caches
+Thumbs.db
+ehthumbs.db
+
+# Crash dumps
+*.stackdump
+
+# Compiled Manual
+*.chm
+
+# Others
+*.log
+*.tmp
+gitignore_csharp_console.txt
+Mostrando gitignore_csharp_console.txt.

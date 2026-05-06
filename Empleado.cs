@@ -24,7 +24,7 @@ public class Empleado : Persona // Esta heredado de la clase padre Persona
         double sueldo,
         string cargo
     )
-    :base(nombre, documento, correo, edad); // Le decimos que atributos hereda
+    :base(nombre, documento, correo, edad) // Le decimos que atributos hereda de la clase persona
     {
         this.sueldo = sueldo;
         this.cargo = cargo;

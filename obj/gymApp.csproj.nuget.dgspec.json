@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\HerrProg-I\\gymApp\\gymApp.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Herramientas\\gym-app\\gymApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\HerrProg-I\\gymApp\\gymApp.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Herramientas\\gym-app\\gymApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\HerrProg-I\\gymApp\\gymApp.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Herramientas\\gym-app\\gymApp.csproj",
         "projectName": "gymApp",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\HerrProg-I\\gymApp\\gymApp.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Herramientas\\gym-app\\gymApp.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\HerrProg-I\\gymApp\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Herramientas\\gym-app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
