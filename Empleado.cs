@@ -2,7 +2,7 @@ public class Empleado : Persona // Esta heredado de la clase padre Persona
 {
     private double sueldo;
     public string cargo = "";
-    public double Sueldo
+    public double Sueldo // Es una propiedad
     {
         get {return sueldo;}
         set{
@@ -15,7 +15,7 @@ public class Empleado : Persona // Esta heredado de la clase padre Persona
         }
     }
 
-    public Empleado // Constructor de empleado 
+    public Empleado // Constructor de empleado 1
     (
         string nombre,
         string documento,
@@ -34,17 +34,19 @@ public class Empleado : Persona // Esta heredado de la clase padre Persona
     (
         string nombre,
         string documento,
+        string correo,
+        int edad,
         double sueldo
     )
-    :base(nombre, documento) // Le decimos que atributos hereda de la clase persona
+    :base(nombre, documento, correo, edad) // Le decimos que atributos hereda de la clase persona
     {
         this.sueldo = sueldo;
     }
 
     public override void MostrarInfo() 
     {
-        base.MostrarInfo(); // ejecuta el MostrarInfo() de Persona
-        Console.WriteLine("Cargo: " + Cargo); //agrega lo propio de Empleado
+        base.MostrarInfo(); // Ejecuta el MostrarInfo() de Persona
+        Console.WriteLine("Cargo: " + cargo); // Agrega lo propio de Empleado
         Console.WriteLine("Sueldo: $" + Sueldo.ToString("N0"));
     }
 

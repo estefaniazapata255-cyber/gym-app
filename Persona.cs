@@ -16,7 +16,7 @@ public class Persona
         }
     }
     
-    public Persona
+    public Persona //Constructor 1
     (
         string nombre,
         string documento,
@@ -36,7 +36,7 @@ public class Persona
         Console.WriteLine("=======================");
         Console.WriteLine("Nombre: " + this.nombre);
         Console.WriteLine("Documento: " + this.documento);
-        Console.WriteLine("Correo" + this.correo);
-        Console.WriteLine("Edad" + this.edad);
+        Console.WriteLine("Correo:" + this.correo);
+        Console.WriteLine("Edad:" + this.edad);
     }
 }

@@ -16,10 +16,12 @@ public class Program
         //    empleado1.Sueldo = 1200.20;
         //    Console.WriteLine(empleado1.Sueldo);
     empleado1.MostrarInfo();
-    Console.WriteLine(==========================);
+    Console.WriteLine("==========================");
     empleado1.CalcularSueldo("Hola");
 
-    Console.WriteLine(==========================);
-    empleado1.CalcularSueldo("0.5");
+    Console.WriteLine("==========================");
+    empleado1.CalcularSueldo(0.5);
     }
+
+    
 }
