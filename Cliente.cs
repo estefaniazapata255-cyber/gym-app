@@ -17,6 +17,7 @@ public class Cliente : Persona // Esta heredado de la clase padre Persona
     {
         this.plan = plan;
         this.fechaIngreso = fechaIngreso;
+        this.activo = true;
     }
 
     public override void MostrarInfo()
