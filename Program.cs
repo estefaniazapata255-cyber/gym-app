@@ -33,7 +33,17 @@ public class Program
          "10/05/2026"
         );
 
+
+
         cliente1.MostrarInfo();
         Console.WriteLine("¿Tiene membresía?: " + cliente1.TieneMembresia());
+
+        cliente1.activo = false; 
+        cliente1.MostrarInfo(); 
+
+        cliente1.fechaIngreso = "25/10/2006";
+        cliente1.MostrarInfo();
+
+
     }
 }
